@@ -1,8 +1,14 @@
 # VerilogParser
-We parse the inputs, wires and the functions that are taking place to be able to code any simulations in language other than verilog.
+
+Verilog Netlist to Python/C++ for complicated simulations??? 
+Parse the Netlist here.   
 
 #### Instructions to run the file
 
-1. Write the correct file_path of the verilog file in your local system.
-2. Run the complete notebook
+1. Download the Jupyter Notebook.
+2. Write the correct file_path of the verilog file saved in your local system.
+3. Run the notebook.
+4. Make changes to get the required output format.
+
+
 
